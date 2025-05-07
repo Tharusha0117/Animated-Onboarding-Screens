@@ -1,2 +1,16 @@
-# Animated-Onboarding-Screens
-A modern Flutter app featuring a sleek onboarding experience with animated page transitions, gradient backgrounds, and smooth indicators. The home screen includes a glassmorphism UI, gradient design, and interactive cards for a clean, user-friendly interface. Built to demonstrate advanced Flutter UI techniques and responsive design.
+# onboardingscreens
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
